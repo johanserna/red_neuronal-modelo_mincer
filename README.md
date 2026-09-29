@@ -36,3 +36,17 @@ La variable objetivo utilizada en los modelos es:
 
 ```text
 ln_ingreso = log(ingreso_mensual)
+
+## Herramientas
+
+- Python
+- pandas
+- NumPy
+- statsmodels
+- scikit-learn
+- matplotlib
+- Jupyter Notebook
+
+## Origen del proyecto
+Este proyecto amplía un trabajo académico grupal realizado en el curso de Ciencia de Datos Aplicada, reemplazando la base simplificada del ejercicio original por microdatos reales de ENAHO 2025.
+Se reconoce a Emilio Augusto Vera Meza como compañero del trabajo académico de origen.
