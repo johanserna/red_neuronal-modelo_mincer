@@ -36,6 +36,7 @@ La variable objetivo utilizada en los modelos es:
 
 ```text
 ln_ingreso = log(ingreso_mensual)
+```
 
 ## Herramientas
 
